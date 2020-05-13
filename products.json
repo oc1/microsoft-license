@@ -1,6 +1,7 @@
 [
   {
     "name": "test1",
-    "valid": true
+    "valid": true,
+    "quantity": 80
   }
 ]
