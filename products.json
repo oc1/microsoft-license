@@ -1,7 +1,457 @@
 [
   {
-    "name": "test1",
-    "valid": true,
-    "quantity": 80
+    "name": "AUDIO CONFERENCING",
+    "stringID": "MCOMEETADV",
+    "guid": "0c266dff-15dd-4b49-8397-2bb16070ed52"
+  },
+  {
+    "name": "AZURE ACTIVE DIRECTORY BASIC",
+    "stringID": "AAD_BASIC",
+    "guid": "2b9c8e7c-319c-43a2-a2a0-48c5c6161de7"
+  },
+  {
+    "name": "AZURE ACTIVE DIRECTORY PREMIUM P1",
+    "stringID": "AAD_PREMIUM",
+    "guid": "078d2b04-f1bd-4111-bbd4-b4b1b354cef4"
+  },
+  {
+    "name": "AZURE ACTIVE DIRECTORY PREMIUM P2",
+    "stringID": "AAD_PREMIUM_P2",
+    "guid": "84a661c4-e949-4bd2-a560-ed7766fcaf2b"
+  },
+  {
+    "name": "AZURE INFORMATION PROTECTION PLAN 1",
+    "stringID": "RIGHTSMANAGEMENT",
+    "guid": "c52ea49f-fe5d-4e95-93ba-1de91d380f89"
+  },
+  {
+    "name": "DYNAMICS 365 CUSTOMER ENGAGEMENT PLAN ENTERPRISE EDITION",
+    "stringID": "DYN365_ENTERPRISE_PLAN1",
+    "guid": "ea126fc5-a19e-42e2-a731-da9d437bffcf"
+  },
+  {
+    "name": "DYNAMICS 365 FOR CUSTOMER SERVICE ENTERPRISE EDITION",
+    "stringID": "DYN365_ENTERPRISE_CUSTOMER_SERVICE",
+    "guid": "749742bf-0d37-4158-a120-33567104deeb"
+  },
+  {
+    "name": "DYNAMICS 365 FOR FINANCIALS BUSINESS EDITION",
+    "stringID": "DYN365_FINANCIALS_BUSINESS_SKU",
+    "guid": "cc13a803-544e-4464-b4e4-6d6169a138fa"
+  },
+  {
+    "name": "DYNAMICS 365 FOR SALES AND CUSTOMER SERVICE ENTERPRISE EDITION",
+    "stringID": "DYN365_ENTERPRISE_SALES_CUSTOMERSERVICE",
+    "guid": "8edc2cf8-6438-4fa9-b6e3-aa1660c640cc"
+  },
+  {
+    "name": "DYNAMICS 365 FOR SALES ENTERPRISE EDITION",
+    "stringID": "DYN365_ENTERPRISE_SALES",
+    "guid": "1e1a282c-9c54-43a2-9310-98ef728faace"
+  },
+  {
+    "name": "DYNAMICS 365 FOR TEAM MEMBERS ENTERPRISE EDITION",
+    "stringID": "DYN365_ENTERPRISE_TEAM_MEMBERS",
+    "guid": "8e7a3d30-d97d-43ab-837c-d7701cef83dc"
+  },
+  {
+    "name": "DYNAMICS 365 UNF OPS PLAN ENT EDITION",
+    "stringID": "Dynamics_365_for_Operations",
+    "guid": "ccba3cfe-71ef-423a-bd87-b6df3dce59a9"
+  },
+  {
+    "name": "ENTERPRISE MOBILITY + SECURITY E3",
+    "stringID": "EMS",
+    "guid": "efccb6f7-5641-4e0e-bd10-b4976e1bf68e"
+  },
+  {
+    "name": "ENTERPRISE MOBILITY + SECURITY E5",
+    "stringID": "EMSPREMIUM",
+    "guid": "b05e124f-c7cc-45a0-a6aa-8cf78c946968"
+  },
+  {
+    "name": "EXCHANGE ONLINE (PLAN 1)",
+    "stringID": "EXCHANGESTANDARD",
+    "guid": "4b9405b0-7788-4568-add1-99614e613b69"
+  },
+  {
+    "name": "EXCHANGE ONLINE (PLAN 2)",
+    "stringID": "EXCHANGEENTERPRISE",
+    "guid": "19ec0d23-8335-4cbd-94ac-6050e30712fa"
+  },
+  {
+    "name": "EXCHANGE ONLINE ARCHIVING FOR EXCHANGE ONLINE",
+    "stringID": "EXCHANGEARCHIVE_ADDON",
+    "guid": "ee02fd1b-340e-4a4b-b355-4a514e4c8943"
+  },
+  {
+    "name": "EXCHANGE ONLINE ARCHIVING FOR EXCHANGE SERVER",
+    "stringID": "EXCHANGEARCHIVE",
+    "guid": "90b5e015-709a-4b8b-b08e-3200f994494c"
+  },
+  {
+    "name": "EXCHANGE ONLINE ESSENTIALS",
+    "stringID": "EXCHANGEESSENTIALS",
+    "guid": "7fc0182e-d107-4556-8329-7caaa511197b"
+  },
+  {
+    "name": "EXCHANGE ONLINE ESSENTIALS",
+    "stringID": "EXCHANGE_S_ESSENTIALS",
+    "guid": "e8f81a67-bd96-4074-b108-cf193eb9433b"
+  },
+  {
+    "name": "EXCHANGE ONLINE KIOSK",
+    "stringID": "EXCHANGEDESKLESS",
+    "guid": "80b2d799-d2ba-4d2a-8842-fb0d0f3a4b82"
+  },
+  {
+    "name": "EXCHANGE ONLINE POP",
+    "stringID": "EXCHANGETELCO",
+    "guid": "cb0a98a8-11bc-494c-83d9-c1b1ac65327e"
+  },
+  {
+    "name": "INTUNE",
+    "stringID": "INTUNE_A",
+    "guid": "061f9ace-7d42-4136-88ac-31dc755f143f"
+  },
+  {
+    "name": "Microsoft 365 A1",
+    "stringID": "M365EDU_A1",
+    "guid": "b17653a4-2443-4e8c-a550-18249dda78bb"
+  },
+  {
+    "name": "Microsoft 365 A3 for faculty",
+    "stringID": "M365EDU_A3_FACULTY",
+    "guid": "4b590615-0888-425a-a965-b3bf7789848d"
+  },
+  {
+    "name": "Microsoft 365 A3 for students",
+    "stringID": "M365EDU_A3_STUDENT",
+    "guid": "7cfd9a2b-e110-4c39-bf20-c6a3f36a3121"
+  },
+  {
+    "name": "Microsoft 365 A5 for faculty",
+    "stringID": "M365EDU_A5_FACULTY",
+    "guid": "e97c048c-37a4-45fb-ab50-922fbf07a370"
+  },
+  {
+    "name": "Microsoft 365 A5 for students",
+    "stringID": "M365EDU_A5_STUDENT",
+    "guid": "46c119d4-0379-4a9d-85e4-97c66d3f909e"
+  },
+  {
+    "name": "MICROSOFT 365 APPS FOR BUSINESS",
+    "stringID": "O365_BUSINESS",
+    "guid": "cdd28e44-67e3-425e-be4c-737fab2899d3"
+  },
+  {
+    "name": "MICROSOFT 365 APPS FOR BUSINESS",
+    "stringID": "SMB_BUSINESS",
+    "guid": "b214fe43-f5a3-4703-beeb-fa97188220fc"
+  },
+  {
+    "name": "MICROSOFT 365 APPS FOR ENTERPRISE",
+    "stringID": "OFFICESUBSCRIPTION",
+    "guid": "c2273bd0-dff7-4215-9ef5-2c7bcfb06425"
+  },
+  {
+    "name": "MICROSOFT 365 BUSINESS BASIC",
+    "stringID": "O365_BUSINESS_ESSENTIALS",
+    "guid": "3b555118-da6a-4418-894f-7df1e2096870"
+  },
+  {
+    "name": "MICROSOFT 365 BUSINESS BASIC",
+    "stringID": "SMB_BUSINESS_ESSENTIALS",
+    "guid": "dab7782a-93b1-4074-8bb1-0e61318bea0b"
+  },
+  {
+    "name": "MICROSOFT 365 BUSINESS STANDARD",
+    "stringID": "O365_BUSINESS_PREMIUM",
+    "guid": "f245ecc8-75af-4f8e-b61f-27d8114de5f3"
+  },
+  {
+    "name": "MICROSOFT 365 BUSINESS STANDARD",
+    "stringID": "SMB_BUSINESS_PREMIUM",
+    "guid": "ac5cef5d-921b-4f97-9ef3-c99076e5470f"
+  },
+  {
+    "name": "MICROSOFT 365 BUSINESS PREMIUM",
+    "stringID": "SPB",
+    "guid": "cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46"
+  },
+  {
+    "name": "MICROSOFT 365 E3",
+    "stringID": "SPE_E3",
+    "guid": "05e9a617-0261-4cee-bb44-138d3ef5d965"
+  },
+  {
+    "name": "Microsoft 365 E5",
+    "stringID": "SPE_E5",
+    "guid": "06ebc4ee-1bb5-47dd-8120-11324bc54e06"
+  },
+  {
+    "name": "Microsoft 365 E3_USGOV_DOD",
+    "stringID": "SPE_E3_USGOV_DOD",
+    "guid": "d61d61cc-f992-433f-a577-5bd016037eeb"
+  },
+  {
+    "name": "Microsoft 365 E3_USGOV_GCCHIGH",
+    "stringID": "SPE_E3_USGOV_GCCHIGH",
+    "guid": "ca9d1dd9-dfe9-4fef-b97c-9bc1ea3c3658"
+  },
+  {
+    "name": "Microsoft 365 E5 Compliance",
+    "stringID": "INFORMATION_PROTECTION_COMPLIANCE",
+    "guid": "184efa21-98c3-4e5d-95ab-d07053a96e67"
+  },
+  {
+    "name": "Microsoft 365 E5 Security",
+    "stringID": "IDENTITY_THREAT_PROTECTION",
+    "guid": "26124093-3d78-432b-b5dc-48bf992543d5"
+  },
+  {
+    "name": "Microsoft 365 E5 Security for EMS E5",
+    "stringID": "IDENTITY_THREAT_PROTECTION_FOR_EMS_E5",
+    "guid": "44ac31e7-2999-4304-ad94-c948886741d4"
+  },
+  {
+    "name": "Microsoft 365 F1",
+    "stringID": "M365_F1",
+    "guid": "66b55226-6b4f-492c-910c-a3b7a3c9d993"
+  },
+  {
+    "name": "Microsoft 365 F3",
+    "stringID": "SPE_F1",
+    "guid": "66b55226-6b4f-492c-910c-a3b7a3c9d993"
+  },
+  {
+    "name": "Microsoft Defender Advanced Threat Protection",
+    "stringID": "WIN_DEF_ATP",
+    "guid": "111046dd-295b-4d6d-9724-d52ac90bd1f2"
+  },
+  {
+    "name": "MICROSOFT DYNAMICS CRM ONLINE BASIC",
+    "stringID": "CRMPLAN2",
+    "guid": "906af65a-2970-46d5-9b58-4e9aa50f0657"
+  },
+  {
+    "name": "MICROSOFT DYNAMICS CRM ONLINE",
+    "stringID": "CRMSTANDARD",
+    "guid": "d17b27af-3f49-4822-99f9-56a661538792"
+  },
+  {
+    "name": "MS IMAGINE ACADEMY",
+    "stringID": "IT_ACADEMY_AD",
+    "guid": "ba9a34de-4489-469d-879c-0f0f145321cd"
+  },
+  {
+    "name": "Office 365 A5 for faculty",
+    "stringID": "ENTERPRISEPREMIUM_FACULTY",
+    "guid": "a4585165-0533-458a-97e3-c400570268c4"
+  },
+  {
+    "name": "Office 365 A5 for students",
+    "stringID": "ENTERPRISEPREMIUM_STUDENT",
+    "guid": "ee656612-49fa-43e5-b67e-cb1fdf7699df"
+  },
+  {
+    "name": "Office 365 Advanced Compliance",
+    "stringID": "EQUIVIO_ANALYTICS",
+    "guid": "1b1b1f7a-8355-43b6-829f-336cfccb744c"
+  },
+  {
+    "name": "Office 365 Advanced Threat Protection (Plan 1)",
+    "stringID": "ATP_ENTERPRISE",
+    "guid": "4ef96642-f096-40de-a3e9-d83fb2f90211"
+  },
+  {
+    "name": "OFFICE 365 E1",
+    "stringID": "STANDARDPACK",
+    "guid": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+  },
+  {
+    "name": "OFFICE 365 E2",
+    "stringID": "STANDARDWOFFPACK",
+    "guid": "6634e0ce-1a9f-428c-a498-f84ec7b8aa2e"
+  },
+  {
+    "name": "OFFICE 365 E3",
+    "stringID": "ENTERPRISEPACK",
+    "guid": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+  },
+  {
+    "name": "OFFICE 365 E3 DEVELOPER",
+    "stringID": "DEVELOPERPACK",
+    "guid": "189a915c-fe4f-4ffa-bde4-85b9628d07a0"
+  },
+  {
+    "name": "Office 365 E3_USGOV_DOD",
+    "stringID": "ENTERPRISEPACK_USGOV_DOD",
+    "guid": "b107e5a3-3e60-4c0d-a184-a7e4395eb44c"
+  },
+  {
+    "name": "Office 365 E3_USGOV_GCCHIGH",
+    "stringID": "ENTERPRISEPACK_USGOV_GCCHIGH",
+    "guid": "aea38a85-9bd5-4981-aa00-616b411205bf"
+  },
+  {
+    "name": "OFFICE 365 E4",
+    "stringID": "ENTERPRISEWITHSCAL",
+    "guid": "1392051d-0cb9-4b7a-88d5-621fee5e8711"
+  },
+  {
+    "name": "OFFICE 365 E5",
+    "stringID": "ENTERPRISEPREMIUM",
+    "guid": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+  },
+  {
+    "name": "OFFICE 365 E5 WITHOUT AUDIO CONFERENCING",
+    "stringID": "ENTERPRISEPREMIUM_NOPSTNCONF",
+    "guid": "26d45bd9-adf1-46cd-a9e1-51e9a5524128"
+  },
+  {
+    "name": "OFFICE 365 F1",
+    "stringID": "DESKLESSPACK",
+    "guid": "4b585984-651b-448a-9e53-3b10f069cf7f"
+  },
+  {
+    "name": "OFFICE 365 MIDSIZE BUSINESS",
+    "stringID": "MIDSIZEPACK",
+    "guid": "04a7fb0d-32e0-4241-b4f5-3f7618cd1162"
+  },
+  {
+    "name": "OFFICE 365 SMALL BUSINESS",
+    "stringID": "LITEPACK",
+    "guid": "bd09678e-b83c-4d3f-aaba-3dad4abd128b"
+  },
+  {
+    "name": "OFFICE 365 SMALL BUSINESS PREMIUM",
+    "stringID": "LITEPACK_P2",
+    "guid": "fc14ec4a-4169-49a4-a51e-2c852931814b"
+  },
+  {
+    "name": "ONEDRIVE FOR BUSINESS (PLAN 1)",
+    "stringID": "WACONEDRIVESTANDARD",
+    "guid": "e6778190-713e-4e4f-9119-8b8238de25df"
+  },
+  {
+    "name": "ONEDRIVE FOR BUSINESS (PLAN 2)",
+    "stringID": "WACONEDRIVEENTERPRISE",
+    "guid": "ed01faf2-1d88-4947-ae91-45ca18703a96"
+  },
+  {
+    "name": "POWER APPS PER USER PLAN",
+    "stringID": "POWERAPPS_PER_USER",
+    "guid": "b30411f5-fea1-4a59-9ad9-3db7c7ead579"
+  },
+  {
+    "name": "POWER BI FOR OFFICE 365 ADD-ON",
+    "stringID": "POWER_BI_ADDON",
+    "guid": "45bc2c81-6072-436a-9b0b-3b12eefbc402"
+  },
+  {
+    "name": "POWER BI PRO",
+    "stringID": "POWER_BI_PRO",
+    "guid": "f8a1db68-be16-40ed-86d5-cb42ce701560"
+  },
+  {
+    "name": "PROJECT FOR OFFICE 365",
+    "stringID": "PROJECTCLIENT",
+    "guid": "a10d5e58-74da-4312-95c8-76be4e5b75a0"
+  },
+  {
+    "name": "PROJECT ONLINE ESSENTIALS",
+    "stringID": "PROJECTESSENTIALS",
+    "guid": "776df282-9fc0-4862-99e2-70e561b9909e"
+  },
+  {
+    "name": "PROJECT ONLINE PREMIUM",
+    "stringID": "PROJECTPREMIUM",
+    "guid": "09015f9f-377f-4538-bbb5-f75ceb09358a"
+  },
+  {
+    "name": "PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT",
+    "stringID": "PROJECTONLINE_PLAN_1",
+    "guid": "2db84718-652c-47a7-860c-f10d8abbdae3"
+  },
+  {
+    "name": "PROJECT ONLINE PROFESSIONAL",
+    "stringID": "PROJECTPROFESSIONAL",
+    "guid": "53818b1b-4a27-454b-8896-0dba576410e6"
+  },
+  {
+    "name": "PROJECT ONLINE WITH PROJECT FOR OFFICE 365",
+    "stringID": "PROJECTONLINE_PLAN_2",
+    "guid": "f82a60b8-1ee3-4cfb-a4fe-1c6a53c2656c"
+  },
+  {
+    "name": "SHAREPOINT ONLINE (PLAN 1)",
+    "stringID": "SHAREPOINTSTANDARD",
+    "guid": "1fc08a02-8b3d-43b9-831e-f76859e04e1a"
+  },
+  {
+    "name": "SHAREPOINT ONLINE (PLAN 2)",
+    "stringID": "SHAREPOINTENTERPRISE",
+    "guid": "a9732ec9-17d9-494c-a51c-d6b45b384dcb"
+  },
+  {
+    "name": "SKYPE FOR BUSINESS CLOUD PBX",
+    "stringID": "MCOEV",
+    "guid": "e43b5b99-8dfb-405f-9987-dc307f34bcbd"
+  },
+  {
+    "name": "SKYPE FOR BUSINESS ONLINE (PLAN 1)",
+    "stringID": "MCOIMP",
+    "guid": "b8b749f8-a4ef-4887-9539-c95b1eaa5db7"
+  },
+  {
+    "name": "SKYPE FOR BUSINESS ONLINE (PLAN 2)",
+    "stringID": "MCOSTANDARD",
+    "guid": "d42c793f-6c78-4f43-92ca-e8f6a02b035f"
+  },
+  {
+    "name": "SKYPE FOR BUSINESS PSTN DOMESTIC AND INTERNATIONAL CALLING",
+    "stringID": "MCOPSTN2",
+    "guid": "d3b4fe1f-9992-4930-8acb-ca6ec609365e"
+  },
+  {
+    "name": "SKYPE FOR BUSINESS PSTN DOMESTIC CALLING",
+    "stringID": "MCOPSTN1",
+    "guid": "0dab259f-bf13-4952-b7f8-7db8f131b28d"
+  },
+  {
+    "name": "SKYPE FOR BUSINESS PSTN DOMESTIC CALLING (120 Minutes)",
+    "stringID": "MCOPSTN5",
+    "guid": "54a152dc-90de-4996-93d2-bc47e670fc06"
+  },
+  {
+    "name": "VISIO ONLINE PLAN 1",
+    "stringID": "VISIOONLINE_PLAN1",
+    "guid": "4b244418-9658-4451-a2b8-b5e2b364e9bd"
+  },
+  {
+    "name": "VISIO Online Plan 2",
+    "stringID": "VISIOCLIENT",
+    "guid": "c5928f49-12ba-48f7-ada3-0d743a3601d5"
+  },
+  {
+    "name": "WINDOWS 10 ENTERPRISE E3",
+    "stringID": "WIN10_PRO_ENT_SUB",
+    "guid": "cb10e6cd-9da4-4992-867b-67546b1db821"
+  },
+  {
+    "name": "Windows 10 Enterprise E5",
+    "stringID": "WIN10_VDA_E5",
+    "guid": "488ba24a-39a9-4473-8ee5-19291e71b002"
+  },
+  {
+    "name": "MICROSOFT FLOW FREE",
+    "stringID": "UNKNOWN_MICROSOFT_FLOW_FREE",
+    "guid": "f30db892-07e9-47e9-837c-80727f46fd3d"
+  },
+  {
+    "name": "Microsoft Teams Commercial Cloud (User Initiated)",
+    "stringID": "TEAMS_COMMERCIAL_TRIAL",
+    "guid": "29a2f828-8f39-4837-b8ff-c957e86abe3c"
   }
 ]
