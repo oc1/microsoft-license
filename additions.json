@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "guid": "sample",
+    "string_id": "SAMPLE",
+    "name": "Sample Product",
+    "includes": ["s1","s2"]
+  }
+]
