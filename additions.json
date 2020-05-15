@@ -4,5 +4,17 @@
     "string_id": "SAMPLE",
     "name": "Sample Product",
     "services": ["s1","s2"]
+  },
+  {
+    "guid": "29a2f828-8f39-4837-b8ff-c957e86abe3c",
+    "string_id": "TEAMS_COMMERCIAL_TRIAL",
+    "name": "Microsoft Teams Commercial Cloud (User Initiated)",
+    "services": []
+  },
+  {
+    "guid": "f30db892-07e9-47e9-837c-80727f46fd3d",
+    "string_id": "FLOW_FREE",
+    "name": "Power Automation (free)",
+    "services": []
   }
 ]
