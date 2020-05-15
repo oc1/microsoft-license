@@ -1,37 +1,10 @@
 [
-  {
-    "guid": "3b555118-da6a-4418-894f-7df1e2096870",
-    "month": 6,
-    "year": 5
-  },
-  {
-    "guid": "dab7782a-93b1-4074-8bb1-0e61318bea0b",
-    "month": 6,
-    "year": 5
-  },
-  {
-    "guid": "cdd28e44-67e3-425e-be4c-737fab2899d3",
-    "month": 10,
-    "year": 8.25
-  },
-  {
-    "guid": "b214fe43-f5a3-4703-beeb-fa97188220fc",
-    "month": 10,
-    "year": 8.25
-  },
-  {
-    "guid": "f245ecc8-75af-4f8e-b61f-27d8114de5f3",
-    "month": 15,
-    "year": 12.5
-  },
-  {
-    "guid": "ac5cef5d-921b-4f97-9ef3-c99076e5470f",
-    "month": 15,
-    "year": 12.5
-  },
-  {
-    "guid": "cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46",
-    "month": null,
-    "year": 20
-  }
+  { "guid": "3b555118-da6a-4418-894f-7df1e2096870",  "month": 6, "year": 5 },
+  { "guid": "dab7782a-93b1-4074-8bb1-0e61318bea0b", "month": 6, "year": 5 },
+  { "guid": "cdd28e44-67e3-425e-be4c-737fab2899d3", "month": 10, "year": 8.25 },
+  { "guid": "b214fe43-f5a3-4703-beeb-fa97188220fc", "month": 10, "year": 8.25 },
+  { "guid": "f245ecc8-75af-4f8e-b61f-27d8114de5f3", "month": 15, "year": 12.5 },
+  { "guid": "ac5cef5d-921b-4f97-9ef3-c99076e5470f", "month": 15, "year": 12.5 },
+  { "guid": "cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46", "month": 24, "year": 20 },
+  { "guid": "c52ea49f-fe5d-4e95-93ba-1de91d380f89", "month": 2, "year": null }
 ]

@@ -90,7 +90,7 @@ Manually add objects to the array.
 
 Manually add objects to the array.
 
-## Final Result and Sample Output
+## 🎉 Final Result and Sample Output
 
 Depending upon how you perform your merges and transforms your output may vary. Here's some example output based upon the code above:
 
