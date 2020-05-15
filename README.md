@@ -9,8 +9,8 @@ Going from an incomplete html table to a clean dataset takes a little bit of wor
 
 ```javascript
 
+
 function loadProductsDatabase(){
-  //from https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/
   const prodGets = [
     axios.get('https://raw.githubusercontent.com/oc1/microsoft-license/master/raw.json'),
     axios.get('https://raw.githubusercontent.com/oc1/microsoft-license/master/additions.json'),
@@ -22,6 +22,8 @@ function loadProductsDatabase(){
   .catch(err => console.log(err));
 }
 loadProductsDatabase();
+setInterval(() => {loadProductsDatabase()}, 24*60*60*1000);
+
 
 function transformProductsDatabase(raw, additions, costs){
 
@@ -51,6 +53,7 @@ function transformProductsDatabase(raw, additions, costs){
 
   //place in cache
   cache.products = cleanArr;
+  console.log(`Finished products table refresh with ${cleanArr.length} objects`);
 }
 
 function getArrayFromBigProductsString(messyString){
@@ -59,7 +62,7 @@ function getArrayFromBigProductsString(messyString){
   const split_by_line = messyString.split(/\r?\n/);
   split_by_line.forEach(x => {
     const guid = x.match(rx);
-    if (guid.length > 0) cleanArr.push(guid[0]);
+    if (guid && guid.length > 0) cleanArr.push(guid[0]);
   });
   return cleanArr;
 }
