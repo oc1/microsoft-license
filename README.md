@@ -90,3 +90,129 @@ Manually add objects to the array.
 
 Manually add objects to the array.
 
+## Final Result and Sample Output
+
+Depending upon how you perform your merges and transforms your output may vary. Here's some example output based upon the code above:
+
+```json
+
+{
+"guid": "cdd28e44-67e3-425e-be4c-737fab2899d3",
+"string_id": "O365_BUSINESS",
+"name": "MICROSOFT 365 APPS FOR BUSINESS",
+"services": [
+"159f4cd6-e380-449f-a816-af1a9ef76344",
+"094e7854-93fc-4d55-b2c0-3ab5369ebdc1",
+"13696edf-5a08-49f6-8134-03083ed8ba30",
+"e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+"a23b959c-7ce8-4e57-9140-b90eb88a9e97"
+],
+"cost": {
+"month": 10,
+"year": 8.25
+}
+},
+{
+"guid": "c2273bd0-dff7-4215-9ef5-2c7bcfb06425",
+"string_id": "OFFICESUBSCRIPTION",
+"name": "MICROSOFT 365 APPS FOR ENTERPRISE",
+"services": [
+"159f4cd6-e380-449f-a816-af1a9ef76344",
+"43de0ff5-c92c-492b-9116-175376d08c38",
+"13696edf-5a08-49f6-8134-03083ed8ba30",
+"e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+"a23b959c-7ce8-4e57-9140-b90eb88a9e97"
+],
+"cost": {
+"month": null,
+"year": null
+}
+},
+{
+"guid": "3b555118-da6a-4418-894f-7df1e2096870",
+"string_id": "O365_BUSINESS_ESSENTIALS",
+"name": "MICROSOFT 365 BUSINESS BASIC",
+"services": [
+"5e62787c-c316-451f-b873-1d05acd4d12c",
+"9aaf7827-d63c-4b61-89c3-182f06f82e5c",
+"0f9b09cb-62d1-4ff4-9129-43f4996f83f4",
+"159f4cd6-e380-449f-a816-af1a9ef76344",
+"0feaeb32-d00e-4d66-bd5a-43b5b83db82c",
+"c63d4d19-e8cb-460e-b37c-4d6c34603745",
+"92f7a6f3-b89b-4bbd-8c30-809e6da5ad1c",
+"b737dad2-2f6c-4c65-90e3-ca563267e8b9",
+"c7699d2e-19aa-44de-8edf-1736da088ca1",
+"e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+"a23b959c-7ce8-4e57-9140-b90eb88a9e97",
+"57ff2da0-773e-42df-b2af-ffb7a2317929",
+"7547a3fe-08ee-4ccb-b430-5077c5041653"
+],
+"cost": {
+"month": 6,
+"year": 5
+}
+},
+{
+"guid": "f245ecc8-75af-4f8e-b61f-27d8114de5f3",
+"string_id": "O365_BUSINESS_PREMIUM",
+"name": "MICROSOFT 365 BUSINESS STANDARD",
+"services": [
+"5e62787c-c316-451f-b873-1d05acd4d12c",
+"8c7d2df8-86f0-4902-b2ed-a0458298f3b3",
+"9aaf7827-d63c-4b61-89c3-182f06f82e5c",
+"0f9b09cb-62d1-4ff4-9129-43f4996f83f4",
+"159f4cd6-e380-449f-a816-af1a9ef76344",
+"0feaeb32-d00e-4d66-bd5a-43b5b83db82c",
+"199a5c09-e0ca-4e37-8f7c-b05d533e1ea2",
+"5bfe124c-bbdc-4494-8835-f1297d457d79",
+"094e7854-93fc-4d55-b2c0-3ab5369ebdc1",
+"92f7a6f3-b89b-4bbd-8c30-809e6da5ad1c",
+"b737dad2-2f6c-4c65-90e3-ca563267e8b9",
+"c7699d2e-19aa-44de-8edf-1736da088ca1",
+"e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+"a23b959c-7ce8-4e57-9140-b90eb88a9e97",
+"57ff2da0-773e-42df-b2af-ffb7a2317929",
+"7547a3fe-08ee-4ccb-b430-5077c5041653"
+],
+"cost": {
+"month": 15,
+"year": 12.5
+}
+},
+{
+"guid": "cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46",
+"string_id": "SPB",
+"name": "MICROSOFT 365 BUSINESS PREMIUM",
+"services": [
+"de377cbc-0019-4ec2-b77c-3f223947e102",
+"5e62787c-c316-451f-b873-1d05acd4d12c",
+"8c7d2df8-86f0-4902-b2ed-a0458298f3b3",
+"176a09a6-7ec5-4039-ac02-b2791c6ba793",
+"9aaf7827-d63c-4b61-89c3-182f06f82e5c",
+"0f9b09cb-62d1-4ff4-9129-43f4996f83f4",
+"159f4cd6-e380-449f-a816-af1a9ef76344",
+"c1ec4a95-1f05-45b3-a911-aa3fa01094f5",
+"8e9ff0ff-aa7a-4b20-83c1-2f636b600ac2",
+"0feaeb32-d00e-4d66-bd5a-43b5b83db82c",
+"199a5c09-e0ca-4e37-8f7c-b05d533e1ea2",
+"5bfe124c-bbdc-4494-8835-f1297d457d79",
+"094e7854-93fc-4d55-b2c0-3ab5369ebdc1",
+"92f7a6f3-b89b-4bbd-8c30-809e6da5ad1c",
+"b737dad2-2f6c-4c65-90e3-ca563267e8b9",
+"bea4c11e-220a-4e6d-8eb8-8ea15d019f90",
+"6c57d4b6-3b23-47a5-9bc9-69f17b4947b3",
+"c7699d2e-19aa-44de-8edf-1736da088ca1",
+"e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+"743dd19e-1ce3-4c62-a3ad-49ba8f63a2f6",
+"a23b959c-7ce8-4e57-9140-b90eb88a9e97",
+"57ff2da0-773e-42df-b2af-ffb7a2317929",
+"8e229017-d77b-43d5-9305-903395523b99",
+"7547a3fe-08ee-4ccb-b430-5077c5041653"
+],
+"cost": {
+"month": null,
+"year": 20
+}
+},
+
+```
