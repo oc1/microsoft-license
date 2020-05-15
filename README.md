@@ -7,7 +7,64 @@ There doesn't appear to be a maintained public api to map sku guids to product n
 
 Going from an incomplete html table to a clean dataset takes a little bit of work. Here's how we're accomplishing it in javascript (but pick your poison 🧪).
 
+```javascript
 
+function loadProductsDatabase(){
+  //from https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/
+  const prodGets = [
+    axios.get('https://raw.githubusercontent.com/oc1/microsoft-license/master/raw.json'),
+    axios.get('https://raw.githubusercontent.com/oc1/microsoft-license/master/additions.json'),
+    axios.get('https://raw.githubusercontent.com/oc1/microsoft-license/master/costs.json')
+  ];
+
+  axios.all(prodGets)
+  .then(rsp => transformProductsDatabase(rsp[0].data,rsp[1].data,rsp[2].data))
+  .catch(err => console.log(err));
+}
+loadProductsDatabase();
+
+function transformProductsDatabase(raw, additions, costs){
+
+  let cleanArr = [];
+
+  //first, iterate over raw and:
+  //  change the property names
+  //  transform the includes string into an array of guids
+  raw.forEach(x => {
+    cleanArr.push({
+      guid: x["GUID"],
+      string_id: x["String ID"],
+      name: x["Product name"],
+      services: getArrayFromBigProductsString(x["Service plans included"]),
+      cost: { month: null, year: null }
+    });
+  });
+
+  //inject the additions
+  additions.forEach(x => cleanArr.push(x));
+
+  //inject the costs
+  costs.forEach(x => {
+    const i = cleanArr.findIndex(y => y.guid === x.guid);
+    if (i > -1) cleanArr[i].cost = { month: x.month, year: x.year };
+  });
+
+  //place in cache
+  cache.products = cleanArr;
+}
+
+function getArrayFromBigProductsString(messyString){
+  let cleanArr = [];
+  const rx = /(\{){0,1}[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}(\}){0,1}/gm;
+  const split_by_line = messyString.split(/\r?\n/);
+  split_by_line.forEach(x => {
+    const guid = x.match(rx);
+    if (guid.length > 0) cleanArr.push(guid[0]);
+  });
+  return cleanArr;
+}
+
+```
 
 
 ## 📋 Update Procedures
