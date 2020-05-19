@@ -16,5 +16,29 @@
     "string_id": "FLOW_FREE",
     "name": "Power Automation (free)",
     "services": []
+  },
+  {
+    "guid": "a403ebcc-fae0-4ca2-8c8c-7a907fd6c235",
+    "string_id": "POWER_BI_STANDARD",
+    "name": "Power BI (free)",
+    "services": []
+  },
+  {
+    "guid": "1f2f344a-700d-42c9-9427-5cea1d5d7ba6",
+    "string_id": "STREAM",
+    "name": "Microsoft Stream Trial",
+    "services": []
+  },
+  {
+    "guid": "131fd665-5752-4995-a628-bcba5c889745",
+    "string_id": "DESKLESSWOFFPACK",
+    "name": "Office 365 F2",
+    "services": []
+  },
+  {
+    "guid": "b56e7ccc-d5c7-421f-a23b-5c18bdbad7c0",
+    "string_id": "Dynamics_365_Onboarding_SKU",
+    "name": "Dynamics 365 for Talent: Onboard",
+    "services": []
   }
 ]
