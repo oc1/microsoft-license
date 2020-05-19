@@ -12,6 +12,12 @@
     "services": []
   },
   {
+    "guid": "710779e8-3d4a-4c88-adb9-386c958d1fdf",
+    "string_id": "TEAMS_UNKNOWN",
+    "name": "Microsoft Teams Exploratory",
+    "services": []
+  },
+  {
     "guid": "f30db892-07e9-47e9-837c-80727f46fd3d",
     "string_id": "FLOW_FREE",
     "name": "Power Automation (free)",
