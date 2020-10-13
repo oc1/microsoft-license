@@ -1,5 +1,11 @@
 [
   {
+    "Product name": "APP CONNECT IW",
+    "String ID": "SPZA_IW",
+    "GUID": "8f0c5670-4e56-4892-b06d-91c085d7004f",
+    "Service plans included": "SPZA (0bfc98ed-1dbc-4a97-b246-701754e48b17)\nEXCHANGE_S_FOUNDATION (113feb6c-3fe4-4440-bddc-54d774bf0318)"
+  },
+  {
     "Product name": "AUDIO CONFERENCING",
     "String ID": "MCOMEETADV",
     "GUID": "0c266dff-15dd-4b49-8397-2bb16070ed52",
@@ -260,7 +266,7 @@
   {
     "Product name": "Microsoft 365 F1",
     "String ID": "M365_F1",
-    "GUID": "66b55226-6b4f-492c-910c-a3b7a3c9d993",
+    "GUID": "44575883-256e-4a79-9da4-ebe9acabe2b2",
     "Service plans included": "AAD_PREMIUM (41781fb2-bc02-4b7c-bd55-b576c07bb09d)\nRMS_S_PREMIUM (6c57d4b6-3b23-47a5-9bc9-69f17b4947b3)\nRMS_S_ENTERPRISE_GOV (6a76346d-5d6e-4051-9fe3-ed3f312b5597)\nADALLOM_S_DISCOVERY (932ad362-64a8-4783-9106-97849a1a30b9)\nEXCHANGE_S_FOUNDATION (113feb6c-3fe4-4440-bddc-54d774bf0318)\nMFA_PREMIUM (8a256a2b-b617-496d-b51b-e76466e88db0)\nINTUNE_A (c1ec4a95-1f05-45b3-a911-aa3fa01094f5)\nPROJECTWORKMANAGEMENT (b737dad2-2f6c-4c65-90e3-ca563267e8b9)\nSTREAM_O365_K (3ffba0d2-38e5-4d5e-8ec0-98f2b05c09d9)\nTEAMS1 (57ff2da0-773e-42df-b2af-ffb7a2317929)\nINTUNE_O365 (882e1d05-acd1-4ccb-8708-6ee03664b117)\nSHAREPOINTDESKLESS (902b47e5-dcb2-4fdc-858b-c63a90a2bdb9)\nMCOIMP (afc06cb0-b4f4-4473-8286-d644f70d8faf)\nYAMMER_ENTERPRISE (7547a3fe-08ee-4ccb-b430-5077c5041653)"
   },
   {
@@ -268,6 +274,72 @@
     "String ID": "SPE_F1",
     "GUID": "66b55226-6b4f-492c-910c-a3b7a3c9d993",
     "Service plans included": "AAD_PREMIUM (41781fb2-bc02-4b7c-bd55-b576c07bb09d)\nRMS_S_PREMIUM (6c57d4b6-3b23-47a5-9bc9-69f17b4947b3)\nRMS_S_ENTERPRISE (bea4c11e-220a-4e6d-8eb8-8ea15d019f90)\nADALLOM_S_DISCOVERY (932ad362-64a8-4783-9106-97849a1a30b9)\nEXCHANGE_S_DESKLESS (4a82b400-a79f-41a4-b4e2-e94f5787b113)\nFLOW_O365_S1 (bd91b1a4-9f94-4ecf-b45b-3a65e5c8128a)\nMFA_PREMIUM (8a256a2b-b617-496d-b51b-e76466e88db0)\nFORMS_PLAN_K (f07046bd-2a3c-4b96-b0be-dea79d7cbfb8)\nINTUNE_A (c1ec4a95-1f05-45b3-a911-aa3fa01094f5)\nKAIZALA_O365_P1 (73b2a583-6a59-42e3-8e83-54db46bc3278)\nPROJECTWORKMANAGEMENT (b737dad2-2f6c-4c65-90e3-ca563267e8b9)\nMICROSOFT_SEARCH (94065c59-bc8e-4e8b-89e5-5138d471eaff)\nDeskless (8c7d2df8-86f0-4902-b2ed-a0458298f3b3)\nSTREAM_O365_K (3ffba0d2-38e5-4d5e-8ec0-98f2b05c09d9)\nTEAMS1 (57ff2da0-773e-42df-b2af-ffb7a2317929)\nINTUNE_O365 (882e1d05-acd1-4ccb-8708-6ee03664b117)\nSHAREPOINTWAC (e95bec33-7c88-4a70-8e19-b10bd9d0c014)\nOFFICEMOBILE_SUBSCRIPTION (c63d4d19-e8cb-460e-b37c-4d6c34603745)\nPOWERAPPS_O365_S1 (e0287f9f-e222-4f98-9a83-f379e249159a)\nSHAREPOINTDESKLESS (902b47e5-dcb2-4fdc-858b-c63a90a2bdb9)\nMCOIMP (afc06cb0-b4f4-4473-8286-d644f70d8faf)\nSWAY (a23b959c-7ce8-4e57-9140-b90eb88a9e97)\nBPOS_S_TODO_FIRSTLINE (80873e7a-cd2a-4e67-b061-1b5381a676a5)\nWHITEBOARD_FIRSTLINE1 (36b29273-c6d0-477a-aca6-6fbe24f538e3)\nWIN10_ENT_LOC_F1 (e041597c-9c7f-4ed9-99b0-2663301576f7)\nYAMMER_ENTERPRISE (7547a3fe-08ee-4ccb-b430-5077c5041653)"
+  },
+  {
+    "Product name": "MICROSOFT FLOW FREE",
+    "String ID": "FLOW_FREE",
+    "GUID": "f30db892-07e9-47e9-837c-80727f46fd3d",
+    "Service plans included": "DYN365_CDS_VIRAL (17ab22cd-a0b3-4536-910a-cb6eb12696c0)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM",
+    "String ID": "MCOEV",
+    "GUID": "e43b5b99-8dfb-405f-9987-dc307f34bcbd",
+    "Service plans included": "MCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM FOR DOD",
+    "String ID": "MCOEV_DOD",
+    "GUID": "d01d9287-694b-44f3-bcc5-ada78c8d953e",
+    "Service plans included": "MCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM FOR FACULTY",
+    "String ID": "MCOEV_FACULTY",
+    "GUID": "d979703c-028d-4de5-acbf-7955566b69b9",
+    "Service plans included": "MCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM FOR GCC",
+    "String ID": "MCOEV_GOV",
+    "GUID": "a460366a-ade7-4791-b581-9fbff1bdaa85",
+    "Service plans included": "EXCHANGE_S_FOUNDATION_GOV (922ba911-5694-4e99-a794-73aed9bfeec8)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM FOR GCCHIGH",
+    "String ID": "MCOEV_GCCHIGH",
+    "GUID": "7035277a-5e49-4abc-a24f-0ec49c501bb5",
+    "Service plans included": "MCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM FOR SMALL AND MEDIUM BUSINESS",
+    "String ID": "MCOEVSMB_1",
+    "GUID": "aa6791d3-bb09-4bc2-afed-c30c3fe26032",
+    "Service plans included": "MCOEVSMB (ed777b71-af04-42ca-9798-84344c66f7c6)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM FOR STUDENTS",
+    "String ID": "MCOEV_STUDENT",
+    "GUID": "1f338bbc-767e-4a1e-a2d4-b73207cc5b93",
+    "Service plans included": "MCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM FOR TELSTRA",
+    "String ID": "MCOEV_TELSTRA",
+    "GUID": "ffaf2d68-1c95-4eb3-9ddd-59b81fba0f61",
+    "Service plans included": "MCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM_USGOV_DOD",
+    "String ID": "MCOEV_USGOV_DOD",
+    "GUID": "b0e7de67-e503-4934-b729-53d595ba5cd1",
+    "Service plans included": "MCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)"
+  },
+  {
+    "Product name": "MICROSOFT 365 PHONE SYSTEM_USGOV_GCCHIGH",
+    "String ID": "MCOEV_USGOV_GCCHIGH",
+    "GUID": "985fcb26-7b94-475b-b512-89356697be71",
+    "Service plans included": "MCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)"
   },
   {
     "Product name": "Microsoft Defender Advanced Threat Protection",
@@ -292,6 +364,12 @@
     "String ID": "IT_ACADEMY_AD",
     "GUID": "ba9a34de-4489-469d-879c-0f0f145321cd",
     "Service plans included": "IT_ACADEMY_AD (d736def0-1fde-43f0-a5be-e3f8b2de6e41)"
+  },
+  {
+    "Product name": "MICROSOFT TEAM (FREE)",
+    "String ID": "TEAMS_FREE",
+    "GUID": "16ddbbfc-09ea-4de2-b1d7-312db6112d70",
+    "Service plans included": "EXCHANGE_S_FOUNDATION (113feb6c-3fe4-4440-bddc-54d774bf0318)"
   },
   {
     "Product name": "Office 365 A5 for faculty",
@@ -363,7 +441,7 @@
     "Product name": "OFFICE 365 E5",
     "String ID": "ENTERPRISEPREMIUM",
     "GUID": "c7df2760-2c81-4ef7-b578-5b5392b571df",
-    "Service plans included": "ADALLOM_S_O365 (8c098270-9dd4-4350-9b30-ba4703f3b36b)\nBI_AZURE_P2 (70d33638-9c74-4d01-bfd3-562de28bd4ba)\nBPOS_S_TODO_3 (3fb82609-8c27-4f7b-bd51-30634711ee67)\nDeskless (8c7d2df8-86f0-4902-b2ed-a0458298f3b3)\nEQUIVIO_ANALYTICS (4de31727-a228-4ec3-a5bf-8e45b5ca48cc)\nEXCHANGE_ANALYTICS (34c0d7a0-a70f-4668-9238-47f9fc208882)\nEXCHANGE_S_ENTERPRISE (efb87545-963c-4e0d-99df-69c6916d9eb0)\nFLOW_O365_P3 (07699545-9485-468e-95b6-2fca3738be01)\nFORMS_PLAN_E5 (e212cbc7-0961-4c40-9825-01117710dcb1)\nLOCKBOX_ENTERPRISE (9f431833-0334-42de-a7dc-70aa40db46db)\nMCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)\nMCOMEETADV (3e26ee1f-8a5f-4d52-aee2-b81ce45c8f40)\nMCOSTANDARD (0feaeb32-d00e-4d66-bd5a-43b5b83db82c)\nOFFICESUBSCRIPTION (43de0ff5-c92c-492b-9116-175376d08c38)\nPOWERAPPS_O365_P3 (9c0dab89-a30c-4117-86e7-97bda240acd2)\nPROJECTWORKMANAGEMENT (b737dad2-2f6c-4c65-90e3-ca563267e8b9)\nRMS_S_ENTERPRISE (bea4c11e-220a-4e6d-8eb8-8ea15d019f90)\nSHAREPOINTENTERPRISE (5dbe027f-2339-4123-9542-606e4d348a72)\nSHAREPOINTWAC (e95bec33-7c88-4a70-8e19-b10bd9d0c014)\nSTREAM_O365_E5 (6c6042f5-6f01-4d67-b8c1-eb99d36eed3e)\nSWAY (a23b959c-7ce8-4e57-9140-b90eb88a9e97)\nTEAMS1 (57ff2da0-773e-42df-b2af-ffb7a2317929)\nTHREAT_INTELLIGENCE (8e0c0a52-6a6c-4d40-8370-dd62790dcd70)\nYAMMER_ENTERPRISE (7547a3fe-08ee-4ccb-b430-5077c5041653)"
+    "Service plans included": "ADALLOM_S_O365 (8c098270-9dd4-4350-9b30-ba4703f3b36b)\nBI_AZURE_P2 (70d33638-9c74-4d01-bfd3-562de28bd4ba)\nBPOS_S_TODO_3 (3fb82609-8c27-4f7b-bd51-30634711ee67)\nDeskless (8c7d2df8-86f0-4902-b2ed-a0458298f3b3)\nEQUIVIO_ANALYTICS (4de31727-a228-4ec3-a5bf-8e45b5ca48cc)\nEXCHANGE_ANALYTICS (34c0d7a0-a70f-4668-9238-47f9fc208882)\nEXCHANGE_S_ENTERPRISE (efb87545-963c-4e0d-99df-69c6916d9eb0)\nFLOW_O365_P3 (07699545-9485-468e-95b6-2fca3738be01)\nFORMS_PLAN_E5 (e212cbc7-0961-4c40-9825-01117710dcb1)\nLOCKBOX_ENTERPRISE (9f431833-0334-42de-a7dc-70aa40db46db)\nMCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)\nMCOMEETADV (3e26ee1f-8a5f-4d52-aee2-b81ce45c8f40)\nMCOSTANDARD (0feaeb32-d00e-4d66-bd5a-43b5b83db82c)\nMICROSOFTBOOKINGS (199a5c09-e0ca-4e37-8f7c-b05d533e1ea2)\nOFFICESUBSCRIPTION (43de0ff5-c92c-492b-9116-175376d08c38)\nPOWERAPPS_O365_P3 (9c0dab89-a30c-4117-86e7-97bda240acd2)\nPROJECTWORKMANAGEMENT (b737dad2-2f6c-4c65-90e3-ca563267e8b9)\nRMS_S_ENTERPRISE (bea4c11e-220a-4e6d-8eb8-8ea15d019f90)\nSHAREPOINTENTERPRISE (5dbe027f-2339-4123-9542-606e4d348a72)\nSHAREPOINTWAC (e95bec33-7c88-4a70-8e19-b10bd9d0c014)\nSTREAM_O365_E5 (6c6042f5-6f01-4d67-b8c1-eb99d36eed3e)\nSWAY (a23b959c-7ce8-4e57-9140-b90eb88a9e97)\nTEAMS1 (57ff2da0-773e-42df-b2af-ffb7a2317929)\nTHREAT_INTELLIGENCE (8e0c0a52-6a6c-4d40-8370-dd62790dcd70)\nYAMMER_ENTERPRISE (7547a3fe-08ee-4ccb-b430-5077c5041653)"
   },
   {
     "Product name": "OFFICE 365 E5 WITHOUT AUDIO CONFERENCING",
@@ -376,6 +454,12 @@
     "String ID": "DESKLESSPACK",
     "GUID": "4b585984-651b-448a-9e53-3b10f069cf7f",
     "Service plans included": "BPOS_S_TODO_FIRSTLINE (80873e7a-cd2a-4e67-b061-1b5381a676a5)\nDeskless (8c7d2df8-86f0-4902-b2ed-a0458298f3b3)\nEXCHANGE_S_DESKLESS (4a82b400-a79f-41a4-b4e2-e94f5787b113)\nFLOW_O365_S1 (bd91b1a4-9f94-4ecf-b45b-3a65e5c8128a)\nFORMS_PLAN_K (f07046bd-2a3c-4b96-b0be-dea79d7cbfb8)\nMCOIMP (afc06cb0-b4f4-4473-8286-d644f70d8faf)\nOFFICEMOBILE_SUBSCRIPTION (c63d4d19-e8cb-460e-b37c-4d6c34603745)\nPOWERAPPS_O365_S1 (e0287f9f-e222-4f98-9a83-f379e249159a)\nSHAREPOINTDESKLESS (902b47e5-dcb2-4fdc-858b-c63a90a2bdb9)\nSHAREPOINTWAC (e95bec33-7c88-4a70-8e19-b10bd9d0c014)\nSTREAM_O365_K (3ffba0d2-38e5-4d5e-8ec0-98f2b05c09d9)\nSWAY (a23b959c-7ce8-4e57-9140-b90eb88a9e97)\nTEAMS1 (57ff2da0-773e-42df-b2af-ffb7a2317929)\nYAMMER_ENTERPRISE (7547a3fe-08ee-4ccb-b430-5077c5041653)"
+  },
+  {
+    "Product name": "OFFICE 365 F3",
+    "String ID": "DESKLESSPACK",
+    "GUID": "4b585984-651b-448a-9e53-3b10f069cf7f",
+    "Service plans included": "BPOS_S_TODO_FIRSTLINE (80873e7a-cd2a-4e67-b061-1b5381a676a5)\nCDS_O365_F1 (90db65a7-bf11-4904-a79f-ef657605145b)\nDESKLESS (8c7d2df8-86f0-4902-b2ed-a0458298f3b3)\nDYN365_CDS_O365_F1 (ca6e61ec-d4f4-41eb-8b88-d96e0e14323f)\nEXCHANGE_S_DESKLESS (4a82b400-a79f-41a4-b4e2-e94f5787b113)\nFLOW_O365_S1 (bd91b1a4-9f94-4ecf-b45b-3a65e5c8128a)\nFORMS_PLAN_K (f07046bd-2a3c-4b96-b0be-dea79d7cbfb8)\nINTUNE_365 (882e1d05-acd1-4ccb-8708-6ee03664b117)\nKAIZALA_O365_P1 (73b2a583-6a59-42e3-8e83-54db46bc3278)\nMCOIMP (afc06cb0-b4f4-4473-8286-d644f70d8faf)\nMICROSOFT_SEARCH (94065c59-bc8e-4e8b-89e5-5138d471eaff)\nOFFICEMOBILE_SUBSCRIPTION (c63d4d19-e8cb-460e-b37c-4d6c34603745)\nPOWERAPPS_O365_S1 (e0287f9f-e222-4f98-9a83-f379e249159a)\nPOWER_VIRTUAL_AGENTS_O365_F1 (ba2fdb48-290b-4632-b46a-e4ecc58ac11a)\nPROJECT_O365_F3 (7f6f28c2-34bb-4d4b-be36-48ca2e77e1ec)\nPROJECTWORKMANAGEMENT (b737dad2-2f6c-4c65-90e3-ca563267e8b9)\nRMS_S_BASIC (31cf2cfc-6b0d-4adc-a336-88b724ed8122)\nSHAREPOINTDESKLESS (902b47e5-dcb2-4fdc-858b-c63a90a2bdb9)\nSHAREPOINTWAC (e95bec33-7c88-4a70-8e19-b10bd9d0c014)\nSTREAM_O365_K (3ffba0d2-38e5-4d5e-8ec0-98f2b05c09d9)\nSWAY (a23b959c-7ce8-4e57-9140-b90eb88a9e97)\nTEAMS1 (57ff2da0-773e-42df-b2af-ffb7a2317929)\nWHITEBOARD_FIRSTLINE_1 (36b29273-c6d0-477a-aca6-6fbe24f538e3)\nYAMMER_ENTERPRISE (7547a3fe-08ee-4ccb-b430-5077c5041653)"
   },
   {
     "Product name": "OFFICE 365 MIDSIZE BUSINESS",
@@ -412,6 +496,12 @@
     "String ID": "POWERAPPS_PER_USER",
     "GUID": "b30411f5-fea1-4a59-9ad9-3db7c7ead579",
     "Service plans included": ""
+  },
+  {
+    "Product name": "POWER BI (FREE)",
+    "String ID": "POWER_BI_STANDARD",
+    "GUID": "a403ebcc-fae0-4ca2-8c8c-7a907fd6c235",
+    "Service plans included": "BI_AZURE_P0 (2049e525-b859-401b-b2a0-e0a31c4b1fe4)"
   },
   {
     "Product name": "POWER BI FOR OFFICE 365 ADD-ON",
@@ -474,12 +564,6 @@
     "Service plans included": "SHAREPOINTENTERPRISE (5dbe027f-2339-4123-9542-606e4d348a72)"
   },
   {
-    "Product name": "SKYPE FOR BUSINESS CLOUD PBX",
-    "String ID": "MCOEV",
-    "GUID": "e43b5b99-8dfb-405f-9987-dc307f34bcbd",
-    "Service plans included": "MCOEV (4828c8ec-dc2e-4779-b502-87ac9ce28ab7)"
-  },
-  {
     "Product name": "SKYPE FOR BUSINESS ONLINE (PLAN 1)",
     "String ID": "MCOIMP",
     "GUID": "b8b749f8-a4ef-4887-9539-c95b1eaa5db7",
@@ -532,5 +616,11 @@
     "String ID": "WIN10_VDA_E5",
     "GUID": "488ba24a-39a9-4473-8ee5-19291e71b002",
     "Service plans included": "EXCHANGE_S_FOUNDATION (113feb6c-3fe4-4440-bddc-54d774bf0318)\nWINDEFATP (871d91ec-ec1a-452b-a83f-bd76c7d770ef)\nVirtualization Rights for Windows 10 (E3/E5+VDA) (e7c91390-7625-45be-94e0-e16907e03118)"
+  },
+  {
+    "Product name": "WINDOWS STORE FOR BUSINESS",
+    "String ID": "WINDOWS_STORE",
+    "GUID": "6470687e-a428-4b7a-bef2-8a291ad947c9",
+    "Service plans included": "EXCHANGE_S_FOUNDATION (113feb6c-3fe4-4440-bddc-54d774bf0318)"
   }
 ]
